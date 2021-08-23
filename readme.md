@@ -1,5 +1,5 @@
 ### Specification
-- ubuntu 18.04
+- ubuntu 20.04
 - ceph-ansible tag: v4.0.15
 
 ### Port
@@ -13,7 +13,7 @@
 # Installation
 ### Checkout code
 ```
-git clone https://github.com/tekchansin/cs100-workshop.git /opt/cs100
+git clone https://github.com/Tumtarm/cs100-workshop.git /opt/cs100
 cd /opt/cs100
 git submodule update --init
 ```
